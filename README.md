@@ -53,15 +53,26 @@ utilizando um loop for ou while.
 15. Escreva um programa que gera e imprime os primeiros 10 números da sequência de
 Fibonacci utilizando um loop for.
 
+# Instalação
+
+ * Clonar repositório
+
+ * Resolver dependências com:
+
+    ```bash
+        npm install        
+    ```
+        
+
 # Execução
 
-    O nome do arquivo refere-se ao número do exercício, para executar respectivo exercício, o usuário pode executar no terminal:
-## Rodando os testes
-
-Para rodar os testes, rode o seguinte comando.
-
-exemplo para executar o exercicio número 1: 
+O nome do arquivo corresponde ao número do exercício. Para executá-lo, o usuário deve usar o terminal.
+ 
 ```bash
-  node 1
+    npm {caminho-para-arquivo.js}
 ```
 
+exemplo para executar o arquivo do exercício 1: 
+```bash
+    npm 1 
+``` 
